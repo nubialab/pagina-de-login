@@ -46,4 +46,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ---
 
-**Feito com 💻 e ❤️ por Núbia Pianca**
+## 💻 Autor
+Desenvolvido por [@nubialab](https://github.com/nubialab).
